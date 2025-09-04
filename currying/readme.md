@@ -65,8 +65,3 @@ Solution
 
 📂 [imageresizer.py](./imageresizer.py)
 
-
----
-
-Do you also want me to give you the exact content of **`imageresizer.py`** (the working solution) here in one block so you can paste both files directly to GitHub?
-```
