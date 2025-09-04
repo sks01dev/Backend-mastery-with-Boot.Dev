@@ -1,7 +1,3 @@
-Got it this time ✅ — I’ll give you the **entire `README.md` content in Markdown**, fully polished, with the link pointing to `imageresizer.py` (kept at the same level as the README).
-Here’s the exact file you can just copy-paste:
-
-````markdown
 # Currying – Image Resizer Practice
 
 ## 📖 What is Currying?
@@ -69,7 +65,6 @@ Solution
 
 📂 [imageresizer.py](./imageresizer.py)
 
-```
 
 ---
 
